@@ -1,6 +1,6 @@
 <?php
 
-namespace YourNamespace\LaravelBackup;
+namespace Tharindu\LaravelBackup;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace YourNamespace\LaravelBackup\Commands;
+namespace Tharindu\LaravelBackup\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Storage;
